@@ -9,5 +9,5 @@ D:\StopDiabetes3\StopDiabetesUI\StopDiabetesDB\obj\Debug\StopDiabetesDB.csprojAs
 D:\StopDiabetes3\StopDiabetesUI\StopDiabetesDB\obj\Debug\StopDiabetesDB.csproj.CopyComplete
 D:\StopDiabetes3\StopDiabetesUI\StopDiabetesDB\obj\Debug\StopDiabetesDB.dll
 D:\StopDiabetes3\StopDiabetesUI\StopDiabetesDB\obj\Debug\StopDiabetesDB.pdb
-D:\StopDiabetes3\StopDiabetesUI\StopDiabetesDB\obj\Debug\StopDiabetesDB.Migrations.InitialModel.resources
+D:\StopDiabetes3\StopDiabetesUI\StopDiabetesDB\obj\Debug\StopDiabetesDB.Migrations.InitialMig.resources
 D:\StopDiabetes3\StopDiabetesUI\StopDiabetesDB\obj\Debug\StopDiabetesDB.csproj.GenerateResource.cache

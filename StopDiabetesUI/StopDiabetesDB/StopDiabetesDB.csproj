@@ -52,9 +52,9 @@
   <ItemGroup>
     <Compile Include="Class1.cs" />
     <Compile Include="Laporan.cs" />
-    <Compile Include="Migrations\202005191157440_InitialModel.cs" />
-    <Compile Include="Migrations\202005191157440_InitialModel.Designer.cs">
-      <DependentUpon>202005191157440_InitialModel.cs</DependentUpon>
+    <Compile Include="Migrations\202005191233215_InitialMig.cs" />
+    <Compile Include="Migrations\202005191233215_InitialMig.Designer.cs">
+      <DependentUpon>202005191233215_InitialMig.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="ModelContext.cs" />
@@ -65,8 +65,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202005191157440_InitialModel.resx">
-      <DependentUpon>202005191157440_InitialModel.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202005191233215_InitialMig.resx">
+      <DependentUpon>202005191233215_InitialMig.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
