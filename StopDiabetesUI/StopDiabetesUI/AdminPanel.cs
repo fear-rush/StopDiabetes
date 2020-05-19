@@ -11,7 +11,7 @@ using StopDiabetesLibrary;
 using System.Data.OleDb;
 using System.Data.SqlClient;
 using System.Data.Entity;
-using StopDiabetesDatabase;
+using StopDiabetesDB;
 
 namespace StopDiabetes2
 {
@@ -34,7 +34,7 @@ namespace StopDiabetes2
 
                 using (ModelContext db = new ModelContext())
                 {
-                    var query = (from c in db.Laporans
+                    var query = (from c in db.Laporan
                                  select c).ToList();
                     dgKritik.DataSource = query;
 
@@ -80,18 +80,18 @@ namespace StopDiabetes2
                 Laporan laporan = new Laporan();
                 laporan.Id = Convert.ToInt32(dgKritik.CurrentRow.Cells["Id"].Value);
                 ModelContext db = new ModelContext();
-                laporan = db.Laporans.
+                laporan = db.Laporan.
                     Where(x => x.Id == laporan.Id).
                     FirstOrDefault();
 
                 var entry = db.Entry(laporan);
                 if (entry.State == System.Data.Entity.EntityState.Detached)
-                    db.Laporans.Attach(laporan);
-                db.Laporans.Remove(laporan);
+                    db.Laporan.Attach(laporan);
+                db.Laporan.Remove(laporan);
                 db.SaveChanges();
 
                 var query =
-                    (from data in db.Laporans
+                    (from data in db.Laporan
                      select data).ToList();
 
                 dgKritik.DataSource = query;

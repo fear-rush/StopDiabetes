@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StopDiabetesUI", "StopDiabe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StopDiabetesLibrary", "StopDiabetesLibrary\StopDiabetesLibrary.csproj", "{707E0198-7B29-472D-90DC-951B32192CCE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StopDiabetesDatabase", "StopDiabetesDatabase\StopDiabetesDatabase.csproj", "{D60408E7-027D-4C4E-9960-67AF553F29AA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StopDiabetesDB", "StopDiabetesDB\StopDiabetesDB.csproj", "{9C5D71BF-96E6-414A-A570-92933AFB3FF9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{707E0198-7B29-472D-90DC-951B32192CCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{707E0198-7B29-472D-90DC-951B32192CCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{707E0198-7B29-472D-90DC-951B32192CCE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D60408E7-027D-4C4E-9960-67AF553F29AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D60408E7-027D-4C4E-9960-67AF553F29AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D60408E7-027D-4C4E-9960-67AF553F29AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D60408E7-027D-4C4E-9960-67AF553F29AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C5D71BF-96E6-414A-A570-92933AFB3FF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C5D71BF-96E6-414A-A570-92933AFB3FF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C5D71BF-96E6-414A-A570-92933AFB3FF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C5D71BF-96E6-414A-A570-92933AFB3FF9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

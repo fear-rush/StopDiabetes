@@ -205,9 +205,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\StopDiabetesDatabase\StopDiabetesDatabase.csproj">
-      <Project>{d60408e7-027d-4c4e-9960-67af553f29aa}</Project>
-      <Name>StopDiabetesDatabase</Name>
+    <ProjectReference Include="..\StopDiabetesDB\StopDiabetesDB.csproj">
+      <Project>{9c5d71bf-96e6-414a-a570-92933afb3ff9}</Project>
+      <Name>StopDiabetesDB</Name>
     </ProjectReference>
     <ProjectReference Include="..\StopDiabetesLibrary\StopDiabetesLibrary.csproj">
       <Project>{707e0198-7b29-472d-90dc-951b32192cce}</Project>

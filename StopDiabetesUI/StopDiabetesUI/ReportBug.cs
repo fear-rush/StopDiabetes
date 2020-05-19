@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using StopDiabetesLibrary;
 using System.Data.OleDb;
 using System.Data.SqlClient;
-using StopDiabetesDatabase;
+using StopDiabetesDB;
 using System.Data.Entity;
 namespace StopDiabetes2
 {
@@ -53,7 +53,7 @@ namespace StopDiabetes2
                         Kritik = tbReport.Text,
                         Tanggal = DateTime.Now
                     };
-                    db.Laporans.Add(laporan);
+                    db.Laporan.Add(laporan);
                     db.SaveChanges();
                     MessageBox.Show("Terimakasih telah melaporkan bug ini");
 

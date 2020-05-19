@@ -65,6 +65,6 @@ D:\StopDiabetes3\StopDiabetesUI\StopDiabetesUI\bin\Debug\System.Memory.xml
 D:\StopDiabetes3\StopDiabetesUI\StopDiabetesUI\bin\Debug\System.Numerics.Vectors.xml
 D:\StopDiabetes3\StopDiabetesUI\StopDiabetesUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 D:\StopDiabetes3\StopDiabetesUI\StopDiabetesUI\bin\Debug\System.Threading.Tasks.Extensions.xml
-D:\StopDiabetes3\StopDiabetesUI\StopDiabetesUI\bin\Debug\StopDiabetesDatabase.dll
-D:\StopDiabetes3\StopDiabetesUI\StopDiabetesUI\bin\Debug\StopDiabetesDatabase.pdb
-D:\StopDiabetes3\StopDiabetesUI\StopDiabetesUI\bin\Debug\StopDiabetesDatabase.dll.config
+D:\StopDiabetes3\StopDiabetesUI\StopDiabetesUI\bin\Debug\StopDiabetesDB.dll
+D:\StopDiabetes3\StopDiabetesUI\StopDiabetesUI\bin\Debug\StopDiabetesDB.pdb
+D:\StopDiabetes3\StopDiabetesUI\StopDiabetesUI\bin\Debug\StopDiabetesDB.dll.config
