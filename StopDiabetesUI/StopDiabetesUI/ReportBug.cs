@@ -54,7 +54,7 @@ namespace StopDiabetes2
                         Tanggal = DateTime.Now
                     };
                     db.Laporan.Add(laporan);
-                    db.SaveChanges();
+                        db.SaveChanges();
                     MessageBox.Show("Terimakasih telah melaporkan bug ini");
 
                 }

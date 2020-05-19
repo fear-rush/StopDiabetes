@@ -56,6 +56,10 @@
     <Compile Include="Migrations\202005191233215_InitialMig.Designer.cs">
       <DependentUpon>202005191233215_InitialMig.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202005191459528_AddStoredProcedures.cs" />
+    <Compile Include="Migrations\202005191459528_AddStoredProcedures.Designer.cs">
+      <DependentUpon>202005191459528_AddStoredProcedures.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="ModelContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -67,6 +71,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\202005191233215_InitialMig.resx">
       <DependentUpon>202005191233215_InitialMig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202005191459528_AddStoredProcedures.resx">
+      <DependentUpon>202005191459528_AddStoredProcedures.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
