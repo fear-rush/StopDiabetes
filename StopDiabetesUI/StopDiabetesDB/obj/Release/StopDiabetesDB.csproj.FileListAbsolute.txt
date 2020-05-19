@@ -1,0 +1,14 @@
+D:\StopDiabetes3\StopDiabetesUI\StopDiabetesDB\bin\Release\StopDiabetesDB.dll.config
+D:\StopDiabetes3\StopDiabetesUI\StopDiabetesDB\bin\Release\StopDiabetesDB.dll
+D:\StopDiabetes3\StopDiabetesUI\StopDiabetesDB\bin\Release\StopDiabetesDB.pdb
+D:\StopDiabetes3\StopDiabetesUI\StopDiabetesDB\bin\Release\EntityFramework.dll
+D:\StopDiabetes3\StopDiabetesUI\StopDiabetesDB\bin\Release\EntityFramework.SqlServer.dll
+D:\StopDiabetes3\StopDiabetesUI\StopDiabetesDB\bin\Release\EntityFramework.xml
+D:\StopDiabetes3\StopDiabetesUI\StopDiabetesDB\bin\Release\EntityFramework.SqlServer.xml
+D:\StopDiabetes3\StopDiabetesUI\StopDiabetesDB\obj\Release\StopDiabetesDB.csprojAssemblyReference.cache
+D:\StopDiabetes3\StopDiabetesUI\StopDiabetesDB\obj\Release\StopDiabetesDB.Migrations.InitialMig.resources
+D:\StopDiabetes3\StopDiabetesUI\StopDiabetesDB\obj\Release\StopDiabetesDB.Migrations.AddStoredProcedures.resources
+D:\StopDiabetes3\StopDiabetesUI\StopDiabetesDB\obj\Release\StopDiabetesDB.csproj.GenerateResource.cache
+D:\StopDiabetes3\StopDiabetesUI\StopDiabetesDB\obj\Release\StopDiabetesDB.csproj.CopyComplete
+D:\StopDiabetes3\StopDiabetesUI\StopDiabetesDB\obj\Release\StopDiabetesDB.dll
+D:\StopDiabetes3\StopDiabetesUI\StopDiabetesDB\obj\Release\StopDiabetesDB.pdb
