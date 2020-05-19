@@ -1,0 +1,10 @@
+D:\StopDiabetes3\StopDiabetesUI\StopDiabetesDbLibrary\bin\Debug\StopDiabetesDbLibrary.dll.config
+D:\StopDiabetes3\StopDiabetesUI\StopDiabetesDbLibrary\bin\Debug\StopDiabetesDbLibrary.dll
+D:\StopDiabetes3\StopDiabetesUI\StopDiabetesDbLibrary\bin\Debug\StopDiabetesDbLibrary.pdb
+D:\StopDiabetes3\StopDiabetesUI\StopDiabetesDbLibrary\bin\Debug\EntityFramework.dll
+D:\StopDiabetes3\StopDiabetesUI\StopDiabetesDbLibrary\bin\Debug\EntityFramework.SqlServer.dll
+D:\StopDiabetes3\StopDiabetesUI\StopDiabetesDbLibrary\bin\Debug\EntityFramework.xml
+D:\StopDiabetes3\StopDiabetesUI\StopDiabetesDbLibrary\bin\Debug\EntityFramework.SqlServer.xml
+D:\StopDiabetes3\StopDiabetesUI\StopDiabetesDbLibrary\obj\Debug\StopDiabetesDbLibrary.csproj.CopyComplete
+D:\StopDiabetes3\StopDiabetesUI\StopDiabetesDbLibrary\obj\Debug\StopDiabetesDbLibrary.dll
+D:\StopDiabetes3\StopDiabetesUI\StopDiabetesDbLibrary\obj\Debug\StopDiabetesDbLibrary.pdb
